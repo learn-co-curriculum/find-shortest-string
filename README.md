@@ -9,7 +9,7 @@ Output: 'a'
 Input: ['cat', 'hi', 'dog', 'an']
 Output: 'hi'
 
-Input: ['flower', 'juniper', 'lily', 'dadelion']
+Input: ['flower', 'juniper', 'lily', 'dandelion']
 Output: 'lily'
 ```
 
