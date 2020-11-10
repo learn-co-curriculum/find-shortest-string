@@ -1,5 +1,7 @@
 # Day 5: Find Shortest String
 
+**Fork and then clone me!**
+
 Given an Array of strings, return the shortest string. If there is more than one string of that length, return the string that comes first in the list. The Array will have a minimum length of 1.
 
 ```
@@ -28,8 +30,6 @@ loop 1000 times:
 
 average runtime = (current time - start time) / 2000
 ```
-
-**Fork and then clone me!**
 
 Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
 
