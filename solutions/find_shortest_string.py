@@ -30,7 +30,7 @@ if __name__ == '__main__':
     print("")
 
     print("Expecting: 'lily'")
-    print(find_shortest_string(['flower', 'juniper', 'lily', 'dadelion']))
+    print(find_shortest_string(['flower', 'juniper', 'lily', 'dandelion']))
 
     print("")
 
@@ -42,7 +42,7 @@ if __name__ == '__main__':
     start_time = time.time()
 
     for i in range(1000):
-        find_shortest_string(['flower', 'juniper', 'lily', 'dadelion'])
+        find_shortest_string(['flower', 'juniper', 'lily', 'dandelion'])
 
     avg_time = ( time.time() - start_time ) / 1000
 
