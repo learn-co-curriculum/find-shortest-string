@@ -27,7 +27,7 @@ if __FILE__ == $PROGRAM_NAME
   puts
 
   puts "Expecting: 'lily'"
-  puts find_shortest_string(['flower', 'juniper', 'lily', 'dadelion'])
+  puts find_shortest_string(['flower', 'juniper', 'lily', 'dandelion'])
 
   puts
 
@@ -40,7 +40,7 @@ if __FILE__ == $PROGRAM_NAME
   start_time = Time.now
 
   1000.times do
-    find_shortest_string(['flower', 'juniper', 'lily', 'dadelion'])
+    find_shortest_string(['flower', 'juniper', 'lily', 'dandelion'])
   end
 
   avg_time = (Time.now - start_time) / 1000.0
