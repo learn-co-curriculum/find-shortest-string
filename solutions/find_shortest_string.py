@@ -2,7 +2,7 @@ import time
 
 def find_shortest_string(list):
 
-    # THE LONGER WAY OF DOING THE SAME THING AS LINE 15
+    # THE LONGER WAY OF DOING THE SAME THING AS LINE 17
 
     '''
     shortest = list[0]
